@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals by the drapers and stationers, for the raising and improving the woollen manufacture and making of paper in England, and for preventing the transportation of moneys and wool</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43723</idno><idno type="EEBO-CITATION">690988931</idno>
+  <idno type="VID">211660</idno>
+  <idno type="EEBO-PROQUEST">2240859050</idno>
+  
+            <idno type="OCLC"> 690988931</idno>
+            <idno type="OCLC">ocn 690988931</idno>
+            <idno type="STC">Wing P3715D</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211660)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2983:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals by the drapers and stationers, for the raising and improving the woollen manufacture and making of paper in England, and for preventing the transportation of moneys and wool</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Paper industry --  Taxation --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211660:1"/>
+            <pb facs="tcp:211660:2"/>
+            <pb facs="tcp:211660:2"/>
+            <head>Proposals by the Drapers and Stationers, for the Raising and Improving the Woollen Manu<g ref="char:EOLhyphen"/>facture, and making of Paper in <hi>England,</hi> and for preventing the Transportation of Moneys and Wool.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E Pray that the Act made in the 18th. year of His Ma<g ref="char:EOLhyphen"/>jesties Reign, for the Encouraging the Woollen-Manu<g ref="char:EOLhyphen"/>facture of this Kingdom, and the preventing Exporta<g ref="char:EOLhyphen"/>tion of Moneys for Linen, and Importing of the same; may be reviewed, because it is not observed.</p>
+            <p>The want of Charity, and fear of Disobliging Neigh<g ref="char:EOLhyphen"/>bours, is the great cause of neglect herein. For the Forfeiture of this Act being five Pounds is all to the use of the Poor; (which ought to all peoples care) but for want of Supervisers and further Encouragement, no body observes nor regards.</p>
+            <p>It is our Humble Request, that His Majesty would be Graciously pleased to accept of one Moiety of the said Forfeiture, towards the Charge of pro<g ref="char:EOLhyphen"/>viding some fit persons, who may have Authority to direct and take Care, that Parish Officers see this good Act duely put in Execution, which will be no loss to the Poor; for by such observance it will be more Advanta<g ref="char:EOLhyphen"/>geous then it is at present.</p>
+            <div type="part">
+               <head>A short Account of some Advantage this Act of Burying in Woollen would have been, if duly observed.</head>
+               <p>It would have raised the Price of Wool, (now worth little) because we should have made so great a Consumption thereof in Burials yearly: For since that Act, we should have Imployed and Consumed more Wool then is now in <hi>England:</hi> (with which we are now glutted) It would have also prevented the Exportation of such great quantities of Wool before the Working of it up, the mixture of which our Wool with Forreign Wool, maketh it fit for Manufacture, which otherwise would not be, (which is Sold at very low Rates, and hinders the sending over of greater quantities of Cloth, to the great prejudice of Woollen-Drapers and Clothiers, great part of which are forced to leave off their Imployments for want of Trade; the Poor also would have been much Imployed in the Working up Wool and making Cloth.</p>
+               <p>If this Act be reinforced, it will be a great means to help us to many hun<g ref="char:EOLhyphen"/>dred Tuns of Linen-raggs yearly, which will enable us to carry on the Making all sorts of White Paper for Writing and Printing: which will neces<g ref="char:EOLhyphen"/>sarily Imploy many Thousands of Poor people in Honest Labour, and pre<g ref="char:EOLhyphen"/>vent the carrying out of this Kingdom great Sums of Monyes, which is yearly sent <hi>in specie</hi> beyond Sea for Paper and Linen-Cloth; it will also prolong the Wearing of Linen, which is now Buried before worn out: It will cause a perpetual Trade in this Nation, and put us in a Con<g ref="char:EOLhyphen"/>dition after some short time to Transport our home-made Paper in great quantities, to the Advancement of His Majesties Customs and Revenues, and keep our Coine to be imployed at home; which now being transpor<g ref="char:EOLhyphen"/>ted, is to the great Prejudice and Lessening of this Nation.</p>
+               <p>Every Week of delay in this Proposal, is three thousand Pounds Pre<g ref="char:EOLhyphen"/>judice to this Nation, and so much Advantage to the <hi>French.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
